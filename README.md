@@ -6,11 +6,15 @@ AI 기능을 API와 사용자 화면까지 연결합니다. Python·FastAPI 기�
 
 ## 프로젝트 한눈에 보기
 
-| 프로젝트 | 구분 | 본인 담당 | 코드 |
-| --- | --- | --- | --- |
-| 도담 정책 AI 요약 | 교육 팀 프로젝트 · 2026.06.09–07.01 | 정책 API·화면, AI 요약·근거 응답, 캐시·실패 처리, 비동기 상태 연동 | [팀 백엔드](https://github.com/bistel-mini-2/bistel-mini-2-backend) · [팀 프론트엔드](https://github.com/bistel-mini-2/bistel-mini-2-frontend) |
-| 재무 RAG·BI 기업 비교 | 교육 팀 프로젝트 · 4인 · 2026.07.27–09.11 | 기업 비교 API·재무 지표·순위·화면·테스트, 상태 저장 오류 수정, 평가 자료 설계·검증 참여 | [팀 원본](https://github.com/bist-mini-final/bist-mini-final) |
-| AVERA:404 리듬게임 | 1인 개발 · 2026.07–진행 중 | 웹 게임·API·DB 연동, 채보 이력 보존, 성적 중복 저장 방지, DSP/CNN 비교 | 비공개 · 아래에 구현 범위 정리 |
+- **도담 정책 AI 요약** · 교육 팀 프로젝트 · 2026.06.09–07.01<br>
+  정책 API·AI 요약·비동기 화면 연동<br>
+  [팀 백엔드](https://github.com/bistel-mini-2/bistel-mini-2-backend) · [팀 프론트엔드](https://github.com/bistel-mini-2/bistel-mini-2-frontend)
+- **재무 RAG·BI 기업 비교** · 교육 팀 프로젝트 · 4인 · 2026.07.27–09.11<br>
+  기업 비교 API·재무 지표·순위·화면·테스트, 상태 저장 오류 수정, 평가 자료 설계·검증 참여<br>
+  [팀 원본](https://github.com/bist-mini-final/bist-mini-final)
+- **AVERA:404 리듬게임** · 1인 개발 · 2026.07–진행 중<br>
+  웹 게임·API·DB 연동, 채보 이력 보존, 성적 중복 저장 방지, DSP/CNN 비교<br>
+  비공개 저장소 · 아래에 구현 범위 정리
 
 팀 프로젝트는 원본 저장소를 연결했습니다. 아래에는 팀 전체 서비스와 제가 담당한 기능을 나누고, 본인 구현을 확인할 수 있는 커밋을 함께 정리했습니다.
 
